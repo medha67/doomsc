@@ -119,27 +119,31 @@ const elements = {
 
   const m = 2
   const toys = {
-    bear: {
+    lucario: {
       w: 20 * m,
       h: 27 * m,
     },
-    bunny: {
+    pikachu: {
       w: 20 * m,
       h: 29 * m,
     },
-    golem: {
+    ralts: {
       w: 20 * m,
       h: 27 * m,
     },
-    cucumber: {
+    sylveon: {
       w: 16 * m,
       h: 28 * m,
     },
-    penguin: {
+    charmander: {
       w: 24 * m,
       h: 22 * m,
     },
-    robot: {
+    grookey: {
+      w: 20 * m,
+      h: 30 * m,
+    },
+    togedemaru: {
       w: 20 * m,
       h: 30 * m,
     },
